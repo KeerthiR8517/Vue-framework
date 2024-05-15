@@ -1,4 +1,4 @@
-# firstproject
+# Vue Practice
 
 ## Project setup
 ```
